@@ -19,6 +19,6 @@ Creati o baza de date noua, cu numele *practica2018*. Creati **doua** tabele den
         - description [text]
     Tabel employees
         - id [unsigned int - cheie primara]
-        - company_id [int - cheie straina]
+        - company_id [unsigned int - cheie straina]
         - name [varchar 32]
 Exportati si baza de date in fisierul **db.sql**, in radacina proiectului. Commit pe GIT cu tot proiectul, in repo-ul fork-uit de voi.
